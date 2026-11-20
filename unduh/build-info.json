@@ -1,21 +1,21 @@
 {
   "status": "ok",
-  "versi": "1.0.5",
-  "catatan": "Room terasa lebih ringan:\n• Avatar kursi tidak lagi didekode di thread utama, jadi pindah kursi tidak tersendat.\n• Lencana dan medal tidak diunduh ulang setiap kali tampil.\n• Profil orang yang duduk dimuat sekali saja.\n• Judul dialog pembaruan kini berbahasa Indonesia.",
-  "ukuran_apk": 57260409,
-  "sha256_apk": "e369f974a2bf354d5f4423efeb1603a229e09b7a35e7e11ef2d12c3b1db40f51",
+  "versi": "1.0.6",
+  "catatan": "Pembaruan RAPS STAR:\n• Panel Manager dan Panel Admin kini muncul di tab Saya setelah dikirim dari panel developer.\n• Dialog pembaruan menampilkan unduhan kecil otomatis setiap ada versi baru.",
+  "ukuran_apk": 57260773,
+  "sha256_apk": "f3d5f1dc936191b160c2eb4c7515040e08b62907eb963507ea6554264329bd99",
   "abis": {
     "arm64": {
-      "ukuran": 57260409,
-      "sha256": "e369f974a2bf354d5f4423efeb1603a229e09b7a35e7e11ef2d12c3b1db40f51"
+      "ukuran": 57260773,
+      "sha256": "f3d5f1dc936191b160c2eb4c7515040e08b62907eb963507ea6554264329bd99"
     },
     "armv7": {
-      "ukuran": 55411556,
-      "sha256": "10a1dc05270e111a40fea062f02b43bd61cf3fb98480be8dd5f199227f19ddce"
+      "ukuran": 55411924,
+      "sha256": "cab95fcd0c92af6bc86faa568eb76dec7e9267045b2660026a658f4b7466457e"
     },
     "universal": {
-      "ukuran": 75676387,
-      "sha256": "fc6bd3adea68f459d6ba1a55dd12d4b0e6b57a61f012dd98647c4cbb9c6d497e"
+      "ukuran": 75676748,
+      "sha256": "5d53ee60e7f396ebc27cc015772d6852d7b06a1319a9a9e142a3638cd750df7f"
     }
   }
 }
