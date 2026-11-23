@@ -1,19 +1,19 @@
 {
   "status": "ok",
-  "versi_baru": "1.0.29",
+  "versi_baru": "1.0.30",
   "patch": [
     {
-      "dari": "1.0.28",
-      "ke": "1.0.29",
+      "dari": "1.0.29",
+      "ke": "1.0.30",
       "arm64": {
-        "file": "arm64-1.0.28-1.0.29.bin",
-        "ukuran": 4477396,
-        "sha256": "9cb641088d8eff7d9f1ea4003d4680cced7a71fca3b64c0649b743c9c39f4c15"
+        "file": "arm64-1.0.29-1.0.30.bin",
+        "ukuran": 4273610,
+        "sha256": "7f971b957463d0fb67410b53e0a8c160004ec29ced9c5722042378680fad553c"
       },
       "armv7": {
-        "file": "armv7-1.0.28-1.0.29.bin",
-        "ukuran": 4475234,
-        "sha256": "2d7f48f85248ea21639440955ab594076151acc6c99d4e73788d4e79cd1eea3e"
+        "file": "armv7-1.0.29-1.0.30.bin",
+        "ukuran": 4297034,
+        "sha256": "4a41a04537461270d18a41146143838d51d555d3207d311d376617e1f2b8c044"
       }
     }
   ]
