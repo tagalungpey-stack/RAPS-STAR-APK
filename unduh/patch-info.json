@@ -1,19 +1,19 @@
 {
   "status": "ok",
-  "versi_baru": "1.0.21",
+  "versi_baru": "1.0.22",
   "patch": [
     {
-      "dari": "1.0.20",
-      "ke": "1.0.21",
+      "dari": "1.0.21",
+      "ke": "1.0.22",
       "arm64": {
-        "file": "arm64-1.0.20-1.0.21.bin",
-        "ukuran": 4358313,
-        "sha256": "8052f9a9ff8a3467f26ef2b201bed3cb6d9aaa94a840599e7d7e9cdc0c52a425"
+        "file": "arm64-1.0.21-1.0.22.bin",
+        "ukuran": 4487203,
+        "sha256": "46e2deaa7c3108707e66d26e0cedb5cefac20c0984024103a7a6677cd0562c66"
       },
       "armv7": {
-        "file": "armv7-1.0.20-1.0.21.bin",
-        "ukuran": 4358466,
-        "sha256": "c78f68960bcd9e42d69cb72fd3a274e2ba370c4d1e8b0b473734853f05ae700d"
+        "file": "armv7-1.0.21-1.0.22.bin",
+        "ukuran": 4478237,
+        "sha256": "689305dad19322656dc90652343598e4f03332de151a50f742c1aaf4df44d077"
       }
     }
   ]
