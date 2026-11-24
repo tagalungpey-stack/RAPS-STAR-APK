@@ -1,21 +1,21 @@
 {
   "status": "ok",
-  "versi": "1.0.37",
+  "versi": "1.0.38",
   "catatan": "Pembaruan RAPS STAR:\n• Panel Manager dan Panel Admin kini muncul di tab Saya setelah dikirim dari panel developer.\n• Dialog pembaruan menampilkan unduhan kecil otomatis setiap ada versi baru.",
-  "ukuran_apk": 57266596,
-  "sha256_apk": "a9ed01ea68c2ae9edf8e1344cf3c0a3f3221a93f543705257882ac7ebe42ba99",
+  "ukuran_apk": 57266746,
+  "sha256_apk": "48ace43dd4b7ed92583a70c4c85488421aedff28af90651f59ad53187168be74",
   "abis": {
     "arm64": {
-      "ukuran": 57266596,
-      "sha256": "a9ed01ea68c2ae9edf8e1344cf3c0a3f3221a93f543705257882ac7ebe42ba99"
+      "ukuran": 57266746,
+      "sha256": "48ace43dd4b7ed92583a70c4c85488421aedff28af90651f59ad53187168be74"
     },
     "armv7": {
-      "ukuran": 55417752,
-      "sha256": "0aa6dab7a7414bc58f4e683c8a2f6062c8621f459279bc5854b362cf9c8e99d2"
+      "ukuran": 55417893,
+      "sha256": "753c6154307b42f2621ce8f29b25ea8227364ca4e5051fb74101247646a5fa27"
     },
     "universal": {
-      "ukuran": 75682571,
-      "sha256": "59370e21d2eec1d10b0c4924c18015b645b311ca013da8556cd50730bb5e51c2"
+      "ukuran": 75682723,
+      "sha256": "789e0912c31304c542c0a1f5c94e17871714a01e0aa5d31d725e5d467337862a"
     }
   }
 }
